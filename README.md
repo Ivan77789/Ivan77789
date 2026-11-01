@@ -1,4 +1,4 @@
-# Hi, I'm Ivan 👋
+# Hi, I'm Ivan
 
 ### Junior Python / Django Developer
 
