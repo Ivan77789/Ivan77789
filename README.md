@@ -1,6 +1,6 @@
 # Hi, I'm Ivan
 
-### Junior Python / Django Developer
+### Python / Django Developer
 
 I'm focused on backend development with Python and Django, building web applications and exploring automation.
 
